@@ -1,0 +1,11 @@
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\bin\Debug\gRAPHeDITORtRY6.exe.config
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\bin\Debug\gRAPHeDITORtRY6.exe
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\bin\Debug\gRAPHeDITORtRY6.pdb
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.csproj.AssemblyReference.cache
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.csproj.SuggestedBindingRedirects.cache
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.Form1.resources
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.Properties.Resources.resources
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.csproj.GenerateResource.cache
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.csproj.CoreCompileInputs.cache
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.exe
+P:\gennady_documents\Coding tools\VS-projects(C)\gRAPHeDITORtRY6\obj\Debug\gRAPHeDITORtRY6.pdb
